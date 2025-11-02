@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b015b63ee8cd664fa7dc9e76137f128, type: 3}
+  m_Name: Vehicle & Building
+  m_EditorClassIdentifier: 
+  category: Vehicle & Building
+  questions:
+  - questionText: Kendaraan besar untuk mengangkut banyak orang. Apa itu?
+    replies:
+    - Motor
+    - Kapal
+    - Kasur
+    - Bus
+    correctReplyIndex: 3
+    questionImage: {fileID: 21300000, guid: 60aece4c6e3486c4aa483b209496e4b9, type: 3}
+  - questionText: Kendaraan yang berjalan di air. Apa itu?
+    replies:
+    - Kapal Laut
+    - Meja Belajar
+    - Gudang
+    - Angkringan
+    correctReplyIndex: 0
+    questionImage: {fileID: 21300000, guid: 0a70bb80a9cc10846b8aea2327ccbe85, type: 3}
+  - questionText: Tempat membuat barang dengan mesin. Apa itu?
+    replies:
+    - Gudang
+    - Pabrik
+    - Apotek
+    - Warung
+    correctReplyIndex: 1
+    questionImage: {fileID: 21300000, guid: 649d4671c5f9bd34dbc5ea6e1907a7db, type: 3}
+  - questionText: Rumah adat dari Sumatra Barat. Apa itu?
+    replies:
+    - Mobil
+    - Gudang
+    - Rumah Gadang
+    - Rumah Sakit
+    correctReplyIndex: 2
+    questionImage: {fileID: 21300000, guid: c4d292ac15033b6428858ebdac8593c3, type: 3}
+  - questionText: Tempat orang berobat dan disembuhkan. Apa itu?
+    replies:
+    - Rumah Makan
+    - Toko
+    - Motor
+    - Rumah Sakit
+    correctReplyIndex: 3
+    questionImage: {fileID: 21300000, guid: de32f9c0d5c8d3440828c0e431b64b4d, type: 3}

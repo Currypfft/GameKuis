@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b015b63ee8cd664fa7dc9e76137f128, type: 3}
+  m_Name: Home
+  m_EditorClassIdentifier: 
+  category: Home
+  questions:
+  - questionText: Aku selalu ada di meja saat waktu makan tiba
+    replies:
+    - Baju
+    - Alat Makan
+    - Meja
+    - Sabun
+    correctReplyIndex: 1
+    questionImage: {fileID: 21300000, guid: ac18db74b0ca6cf45b5e31ae1e29cc02, type: 3}
+  - questionText: Aku suka dipantulkan, ditendang, atau dilempar.
+    replies:
+    - Sendok
+    - Kursi
+    - Jam Dinding
+    - Bola
+    correctReplyIndex: 3
+    questionImage: {fileID: 21300000, guid: 6d0be6f3d42e90449bec5146ecedfae2, type: 3}
+  - questionText: Aku membantu Ibu membuat pakaian jadi bersih dan wangi.
+    replies:
+    - Gelas
+    - Botol Minum
+    - Mesin Cuci
+    - Bantal Tidur
+    correctReplyIndex: 2
+    questionImage: {fileID: 21300000, guid: 48b53f972c6347047968f442155d2df7, type: 3}
+  - questionText: Di dalamku ada buku, pensil, dan bekal.
+    replies:
+    - Tas Belanja
+    - Kardus
+    - Lemari
+    - Tas Sekolah
+    correctReplyIndex: 3
+    questionImage: {fileID: 21300000, guid: 271792ca440be9440adb3d2bcd181e25, type: 3}
+  - questionText: Kamu bisa menonton kartun, berita, atau film lewat aku.
+    replies:
+    - Handphone
+    - Jam Tangan
+    - Laptop
+    - Televisi
+    correctReplyIndex: 3
+    questionImage: {fileID: 21300000, guid: 454313fd152e357419b4e4f56c9345cd, type: 3}

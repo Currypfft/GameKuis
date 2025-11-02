@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b015b63ee8cd664fa7dc9e76137f128, type: 3}
+  m_Name: Animal & Plant
+  m_EditorClassIdentifier: 
+  category: Animal & Plant
+  questions:
+  - questionText: Suaraku bisa membangunkan orang dari tidur.
+    replies:
+    - Belalang
+    - Paus
+    - Ayam
+    - Sapi
+    correctReplyIndex: 2
+    questionImage: {fileID: 21300000, guid: 2f86a9ce4b02d06438ec896adcd8d8b3, type: 3}
+  - questionText: Warnaku kuning cerah seperti sinarnya.
+    replies:
+    - Batu
+    - Gunung
+    - Bunga Mawar
+    - Bunga Matahari
+    correctReplyIndex: 3
+    questionImage: {fileID: 21300000, guid: 26cb941786068fe48aa56629129ae5ac, type: 3}
+  - questionText: Aku tidak bisa hidup di darat. Siapakah aku?
+    replies:
+    - Ikan
+    - Harimau
+    - Badak
+    - Elang
+    correctReplyIndex: 0
+    questionImage: {fileID: 21300000, guid: 983b1feb343b7934e8e1d28fb22f9a95, type: 3}
+  - questionText: Aku sering mengejar tikus, siapakah aku?
+    replies:
+    - Burung
+    - Kucing
+    - Cicak
+    - Hamster
+    correctReplyIndex: 1
+    questionImage: {fileID: 21300000, guid: ba4e25e2481e84e4092c66d6f2cbe392, type: 3}
+  - questionText: Buahku bisa diminum dan dagingnya bisa dimakan.
+    replies:
+    - Manggis
+    - Mangga
+    - Pohon Kelapa
+    - Jeruk
+    correctReplyIndex: 1
+    questionImage: {fileID: 21300000, guid: 1421d3934db99a14a9251f1b962da57d, type: 3}
